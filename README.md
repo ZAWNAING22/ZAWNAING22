@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm ZAW NAING </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Machine+Learning;LLMs+%2B+RAG+%2B+Vector+Databases;Backend+Developer+%7C+B.Sc.+Computer+Engineering" alt="Typing SVG" />
-  </a>
-</p>
+AI Engineer • Machine Learning • LLMs • RAG • Backend Development
+
+<p> Building intelligent systems with Machine Learning, Large Language Models, and scalable backend applications. </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+Engineer;FastAPI+Backend+Developer;Always+Learning+Something+New"/>
 
 <p align="center">
   🤖 Building intelligent systems with <b>LLMs</b>, <b>RAG</b>, and <b>AI Agents</b> &nbsp;|&nbsp; 🚀 Exploring MLOps
