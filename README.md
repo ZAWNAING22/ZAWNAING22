@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I'm ZAW NAING </h1>
+<div align="center">
 
+👋 Hi, I'm Zaw Naing
 AI Engineer • Machine Learning • LLMs • RAG • Backend Development
 
 <p> Building intelligent systems with Machine Learning, Large Language Models, and scalable backend applications. </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+Engineer;FastAPI+Backend+Developer;Always+Learning+Something+New"/>
-
-<p align="center">
-  🤖 Building intelligent systems with <b>LLMs</b>, <b>RAG</b>, and <b>AI Agents</b> &nbsp;|&nbsp; 🚀 Exploring MLOps
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
