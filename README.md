@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm **Zaw Naing**
+# Hi 👋, I'm **ZAW NAING**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+Enthusiast;FastAPI+Backend+Developer;Always+Learning+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+Engineer;FastAPI+Backend+Developer;Always+Learning+Something+New"/>
 
 ---
 
