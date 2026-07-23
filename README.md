@@ -1,35 +1,184 @@
-# Hi, I'm Zaw Naing 👋
+<div align="center">
 
-## AI Engineer | Computer Engineering Graduate
+# 👋 Hi, I'm **Zaw Naing**
 
-I build AI-powered applications using:
-- Python
-- FastAPI
-- Hugging Face
-- RAG
-- Vector Databases
-- Machine Learning
+### AI Engineer • Machine Learning • LLMs • RAG • Backend Development
 
-## Featured Projects
+<p>
+Building intelligent systems with Machine Learning, Large Language Models, and scalable backend applications.
+</p>
 
-### 🛡️ Network Intrusion Detection System
-- XGBoost
-- Flask API
-- Android App
-- SQLite
-- Real-time Detection
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+Engineer;FastAPI+Backend+Developer;Always+Learning+Something+New"/>
 
-### 🤖 AI Chatbot with RAG
-- LangChain
-- ChromaDB
-- Gemini API
+---
 
-## Skills
+### 🚀 About Me
 
-Python • FastAPI • Docker • Git • SQL • Machine Learning • Hugging Face
+🎓 B.Sc. Computer Engineering
 
-## Contact
+🤖 Passionate about Artificial Intelligence and Machine Learning
 
-LinkedIn: ...
-Email: ...
-Portfolio: ...
+📚 Currently learning
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases
+* AI Agents
+* MLOps
+
+💡 Interested in
+
+* AI Engineering
+* Machine Learning
+* Backend Development
+* Intelligent Automation
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,cs,c,html,css"/>
+</p>
+
+## AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+* Scikit-Learn
+* XGBoost
+* Pandas
+* NumPy
+* Matplotlib
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🛡️ Network Intrusion Detection System
+
+Machine Learning based real-time NIDS capable of detecting multiple network attacks.
+
+### Features
+
+* Real-time attack detection
+* Flask REST API
+* Android application
+* SQLite alert database
+* Interactive dashboard
+* XGBoost classifier
+
+---
+
+## 🤖 AI RAG Assistant
+
+Retrieval-Augmented Generation chatbot using
+
+* Hugging Face
+* Vector Database
+* FastAPI
+* Embedding Models
+
+---
+
+## 📊 FastAPI ML APIs
+
+Production-ready Machine Learning APIs including
+
+* Prediction APIs
+* Batch CSV prediction
+* File Upload
+* Error Handling
+* Model Versioning
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+
+<a href="mailto:YOUR_EMAIL">Email</a> •
+
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+⭐ Thanks for visiting my profile!
+
+</div>
